@@ -2,7 +2,9 @@
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
-		<Description>Reading a setting from App.config or Web.config is a pretty common task. Here's a class that makes this loads easier: AppSettingsUtil Easily read application setting values in a variety of types, specifying default values if necessary.</Description>
+		<Description>Reading a setting from App.config or Web.config is a pretty common task. Here's a class that makes this loads easier: AppSettingsUtil
+
+Easily read application setting values in a variety of types, specifying default values if necessary.</Description>
 		<Authors>Drew Noakes, Daniel Wagner</Authors>
 		<PackageTags>IConfiguration Configuration Microsoft.Extensions.Configuration AppSettings Utiltity</PackageTags>
 		<PackageIconUrl>https://drewnoakes.com/favicon.ico</PackageIconUrl>
@@ -10,7 +12,7 @@
 		<PackageProjectUrl>https://github.com/danielwagn3r/AppSettingsUtils.Net</PackageProjectUrl>
 		<PackageLicenseUrl>https://raw.githubusercontent.com/danielwagn3r/AppSettingsUtils.Net/main/LICENSE</PackageLicenseUrl>
 		<ProduceReferenceAssembly>True</ProduceReferenceAssembly>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
