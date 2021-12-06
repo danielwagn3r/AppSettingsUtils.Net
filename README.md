@@ -1,6 +1,6 @@
 # AppSettingsUtils
 
-[![Gitter](https://img.shields.io/gitter/room/kwaxi/AppSettingsUtils.svg?maxAge=86400)](https://gitter.im/kwaxi/AppSettingsUtils) [![NuGet](https://img.shields.io/nuget/v/AppSettingsUtils.Net.svg)](https://www.nuget.org/packages/AppSettingsUtils.Net/)
+[![publish to nuget](https://github.com/danielwagn3r/AppSettingsUtils.Net/actions/workflows/publish.yml/badge.svg)](https://github.com/danielwagn3r/AppSettingsUtils.Net/actions/workflows/publish.yml) [![Gitter](https://img.shields.io/gitter/room/kwaxi/AppSettingsUtils.svg?maxAge=86400)](https://gitter.im/kwaxi/AppSettingsUtils) [![NuGet](https://img.shields.io/nuget/v/AppSettingsUtils.Net.svg)](https://www.nuget.org/packages/AppSettingsUtils.Net/)
 
 Reading a setting from App.config or Web.config is a pretty common task. Here's a class that makes this loads easier: AppSettingsUtil
 
